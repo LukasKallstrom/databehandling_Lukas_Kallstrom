@@ -9,6 +9,8 @@ numpy = "*"
 seaborn = "*"
 ipykernel = "*"
 matplotlib = "*"
+openpyxl = "*"
+pipfile = "*"
 
 [dev-packages]
 
