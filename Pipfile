@@ -11,6 +11,9 @@ ipykernel = "*"
 matplotlib = "*"
 openpyxl = "*"
 pipfile = "*"
+plotly = "*"
+plotly-express = "*"
+nbformat = "*"
 
 [dev-packages]
 
