@@ -14,6 +14,7 @@ pipfile = "*"
 plotly = "*"
 plotly-express = "*"
 nbformat = "*"
+lxml = "*"
 
 [dev-packages]
 
